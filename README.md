@@ -1,23 +1,22 @@
-# Olá! Eu sou a Ester 👋
-
-🎓 Estudante de Ciência da Computação  
-📊 Estagiária de Análise de Dados  
-
-## 💻 Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterpereiraa)
-
-
----
-
-⭐
+<table>
+  <tr>
+    <td align="center">
+      <!-- Animação de digitação -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ffab&width=400&height=40&lines=Hello%2F+I'm+Ester!" alt="Typing SVG" />
+      <br/>
+      <!-- GIF animado -->
+      <img src="https://i.imgur.com/JQqw2EX.gif" width="350" />
+    </td>
+    <td valign="top">
+      <p><b>about me:</b><br>
+   ➧ 21y ➧ she/her
+      <br><br>
+     Aluna de Ciência da Computação
+      <br><br>
+      <b>skills & tools:</b><br>
+      ▸ Python, SQL, Alteryx, Power BI, AWS, Pandas, Numpy, Tableau
+      <br><br>
+      </p>
+    </td>
+  </tr>
+</table>
