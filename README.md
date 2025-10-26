@@ -7,16 +7,5 @@
       <!-- GIF animado -->
       <img src="https://i.imgur.com/JQqw2EX.gif" width="350" />
     </td>
-    <td valign="top">
-      <p><b>about me:</b><br>
-   ➧ 21y ➧ she/her
-      <br><br>
-     Aluna de Ciência da Computação
-      <br><br>
-      <b>skills & tools:</b><br>
-      ▸ Python, SQL, Alteryx, Power BI, AWS, Pandas, Numpy, Tableau
-      <br><br>
-      </p>
-    </td>
   </tr>
 </table>
